@@ -1,16 +1,45 @@
-# toku
+# 🇯🇵 Japanese Learning App – Learn Japanese in a Fun & Easy Way
 
-A new Flutter project.
+**It's Fantastic!**  
+This application is designed to help beginners learn the **Japanese language** through categorized lessons such as **Numbers, Family Members, Colors, and Basic Phrases** – all in an engaging and interactive format.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📚 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎌 **Learn by Categories**  
+  - 📊 Numbers  
+  - 👨‍👩‍👧‍👦 Family Members  
+  - 🎨 Colors  
+  - 💬 Common Phrases  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔈 **Audio Pronunciation**  
+  Hear how each word is correctly pronounced by native speakers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧠 **Simple & Clear UI**  
+  Easy to use for kids and adults alike.
+
+- 🎯 **Great for Beginners**  
+  Build your vocabulary from scratch without prior knowledge of Japanese.
+
+- 📱 **Lightweight App**  
+  Fast and responsive, works smoothly on most devices.
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Flutter** – For cross-platform mobile development  
+- **Dart** – The programming language  
+- **Audio Player** – For pronunciation playback  
+- **Clean UI Design** – User-friendly layout for all ages
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/japanese-learning-app.git
+   cd japanese-learning-app
